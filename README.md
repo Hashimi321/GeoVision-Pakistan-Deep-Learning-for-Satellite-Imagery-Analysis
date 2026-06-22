@@ -1,11 +1,10 @@
-# GeoVision Pakistan 🛰️
+# GeoVision Pakistan 
 
 **Deep Learning for Satellite Imagery Analysis of Pakistan**
 
 [![Python](https://img.shields.io/badge/Python-3.12-blue)](https://python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.11-red)](https://pytorch.org)
 [![Ultralytics](https://img.shields.io/badge/YOLOv8-8.4.72-green)](https://ultralytics.com)
-[![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
 
 GeoVision Pakistan applies state-of-the-art deep learning to multispectral Sentinel-2 satellite imagery for geospatial analysis of Pakistan. The project covers two tasks:
 
