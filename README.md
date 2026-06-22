@@ -35,7 +35,7 @@ All satellite data was sourced from ESA's **Sentinel-2** constellation via **Goo
 - **Task A**: 6-band multispectral imagery at 100 m/px, covering all of Pakistan. Ground truth from ESA WorldCover v200 (7 classes).
 - **Task B**: 3-band RGB imagery at 10 m/px for Lahore, Islamabad, Peshawar, and Faisalabad. Ground truth from OpenStreetMap (OSM) cemetery polygons.
 
-The entire pipeline — from raw GEE export to trained model evaluation — was built from scratch by the team.
+The entire pipeline — from raw GEE export to trained model evaluation — was built from scratch by the team and saved in google drive https://drive.google.com/drive/folders/1n7PzTgs8fcjPGAcTPLDzlNZaBa_y0dCs?usp=sharing.
 
 ---
 
